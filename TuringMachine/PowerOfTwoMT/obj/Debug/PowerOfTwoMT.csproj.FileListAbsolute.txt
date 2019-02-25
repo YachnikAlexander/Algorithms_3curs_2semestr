@@ -1,0 +1,7 @@
+C:\Users\Aliaksandr_Yachnik\Desktop\TuringMachine\PowerOfTwoMT\bin\Debug\PowerOfTwoMT.dll
+C:\Users\Aliaksandr_Yachnik\Desktop\TuringMachine\PowerOfTwoMT\bin\Debug\PowerOfTwoMT.pdb
+C:\Users\Aliaksandr_Yachnik\Desktop\TuringMachine\PowerOfTwoMT\bin\Debug\TuringMachine2.0.dll
+C:\Users\Aliaksandr_Yachnik\Desktop\TuringMachine\PowerOfTwoMT\bin\Debug\TuringMachine2.0.pdb
+C:\Users\Aliaksandr_Yachnik\Desktop\TuringMachine\PowerOfTwoMT\obj\Debug\PowerOfTwoMT.csprojResolveAssemblyReference.cache
+C:\Users\Aliaksandr_Yachnik\Desktop\TuringMachine\PowerOfTwoMT\obj\Debug\PowerOfTwoMT.dll
+C:\Users\Aliaksandr_Yachnik\Desktop\TuringMachine\PowerOfTwoMT\obj\Debug\PowerOfTwoMT.pdb

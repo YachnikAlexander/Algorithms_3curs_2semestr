@@ -1,0 +1,5 @@
+C:\Users\Aliaksandr_Yachnik\Desktop\TuringMachine\TuringMachine2.0\bin\Debug\TuringMachine2.0.dll
+C:\Users\Aliaksandr_Yachnik\Desktop\TuringMachine\TuringMachine2.0\bin\Debug\TuringMachine2.0.pdb
+C:\Users\Aliaksandr_Yachnik\Desktop\TuringMachine\TuringMachine2.0\obj\Debug\TuringMachine2.0.dll
+C:\Users\Aliaksandr_Yachnik\Desktop\TuringMachine\TuringMachine2.0\obj\Debug\TuringMachine2.0.pdb
+C:\Users\Aliaksandr_Yachnik\Desktop\TuringMachine\TuringMachine2.0\obj\Debug\TuringMachine.csprojResolveAssemblyReference.cache

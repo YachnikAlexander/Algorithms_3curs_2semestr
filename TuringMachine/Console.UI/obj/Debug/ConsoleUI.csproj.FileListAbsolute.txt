@@ -1,0 +1,10 @@
+C:\Users\Aliaksandr_Yachnik\Desktop\TuringMachine\Console.UI\bin\Debug\Console.UI.exe.config
+C:\Users\Aliaksandr_Yachnik\Desktop\TuringMachine\Console.UI\bin\Debug\Console.UI.exe
+C:\Users\Aliaksandr_Yachnik\Desktop\TuringMachine\Console.UI\bin\Debug\Console.UI.pdb
+C:\Users\Aliaksandr_Yachnik\Desktop\TuringMachine\Console.UI\bin\Debug\PowerOfTwoMT.dll
+C:\Users\Aliaksandr_Yachnik\Desktop\TuringMachine\Console.UI\bin\Debug\TuringMachine2.0.dll
+C:\Users\Aliaksandr_Yachnik\Desktop\TuringMachine\Console.UI\bin\Debug\PowerOfTwoMT.pdb
+C:\Users\Aliaksandr_Yachnik\Desktop\TuringMachine\Console.UI\bin\Debug\TuringMachine2.0.pdb
+C:\Users\Aliaksandr_Yachnik\Desktop\TuringMachine\Console.UI\obj\Debug\ConsoleUI.csprojResolveAssemblyReference.cache
+C:\Users\Aliaksandr_Yachnik\Desktop\TuringMachine\Console.UI\obj\Debug\Console.UI.exe
+C:\Users\Aliaksandr_Yachnik\Desktop\TuringMachine\Console.UI\obj\Debug\Console.UI.pdb
