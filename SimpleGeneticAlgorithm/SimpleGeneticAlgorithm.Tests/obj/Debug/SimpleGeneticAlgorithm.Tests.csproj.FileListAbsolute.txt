@@ -1,0 +1,9 @@
+C:\Users\Aliaksandr_Yachnik\Desktop\SimpleGeneticAlgorithm\SimpleGeneticAlgorithm.Tests\bin\Debug\SimpleGeneticAlgorithm.Tests.dll
+C:\Users\Aliaksandr_Yachnik\Desktop\SimpleGeneticAlgorithm\SimpleGeneticAlgorithm.Tests\bin\Debug\SimpleGeneticAlgorithm.Tests.pdb
+C:\Users\Aliaksandr_Yachnik\Desktop\SimpleGeneticAlgorithm\SimpleGeneticAlgorithm.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Aliaksandr_Yachnik\Desktop\SimpleGeneticAlgorithm\SimpleGeneticAlgorithm.Tests\bin\Debug\SimpleGeneticAlgorithm.dll
+C:\Users\Aliaksandr_Yachnik\Desktop\SimpleGeneticAlgorithm\SimpleGeneticAlgorithm.Tests\bin\Debug\SimpleGeneticAlgorithm.pdb
+C:\Users\Aliaksandr_Yachnik\Desktop\SimpleGeneticAlgorithm\SimpleGeneticAlgorithm.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Aliaksandr_Yachnik\Desktop\SimpleGeneticAlgorithm\SimpleGeneticAlgorithm.Tests\obj\Debug\SimpleGeneticAlgorithm.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Aliaksandr_Yachnik\Desktop\SimpleGeneticAlgorithm\SimpleGeneticAlgorithm.Tests\obj\Debug\SimpleGeneticAlgorithm.Tests.dll
+C:\Users\Aliaksandr_Yachnik\Desktop\SimpleGeneticAlgorithm\SimpleGeneticAlgorithm.Tests\obj\Debug\SimpleGeneticAlgorithm.Tests.pdb

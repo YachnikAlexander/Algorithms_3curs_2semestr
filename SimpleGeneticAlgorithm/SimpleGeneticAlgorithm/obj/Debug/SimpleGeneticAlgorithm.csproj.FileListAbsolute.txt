@@ -1,0 +1,5 @@
+C:\Users\Aliaksandr_Yachnik\Desktop\SimpleGeneticAlgorithm\SimpleGeneticAlgorithm\bin\Debug\SimpleGeneticAlgorithm.dll
+C:\Users\Aliaksandr_Yachnik\Desktop\SimpleGeneticAlgorithm\SimpleGeneticAlgorithm\bin\Debug\SimpleGeneticAlgorithm.pdb
+C:\Users\Aliaksandr_Yachnik\Desktop\SimpleGeneticAlgorithm\SimpleGeneticAlgorithm\obj\Debug\SimpleGeneticAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\Aliaksandr_Yachnik\Desktop\SimpleGeneticAlgorithm\SimpleGeneticAlgorithm\obj\Debug\SimpleGeneticAlgorithm.dll
+C:\Users\Aliaksandr_Yachnik\Desktop\SimpleGeneticAlgorithm\SimpleGeneticAlgorithm\obj\Debug\SimpleGeneticAlgorithm.pdb
