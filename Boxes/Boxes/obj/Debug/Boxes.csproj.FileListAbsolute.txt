@@ -1,0 +1,6 @@
+C:\Users\Aliaksandr_Yachnik\Desktop\Boxes\Boxes\bin\Debug\Boxes.exe.config
+C:\Users\Aliaksandr_Yachnik\Desktop\Boxes\Boxes\bin\Debug\Boxes.exe
+C:\Users\Aliaksandr_Yachnik\Desktop\Boxes\Boxes\bin\Debug\Boxes.pdb
+C:\Users\Aliaksandr_Yachnik\Desktop\Boxes\Boxes\obj\Debug\Boxes.csprojResolveAssemblyReference.cache
+C:\Users\Aliaksandr_Yachnik\Desktop\Boxes\Boxes\obj\Debug\Boxes.exe
+C:\Users\Aliaksandr_Yachnik\Desktop\Boxes\Boxes\obj\Debug\Boxes.pdb

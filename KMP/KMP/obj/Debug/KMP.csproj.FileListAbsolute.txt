@@ -1,0 +1,6 @@
+C:\Users\Aliaksandr_Yachnik\Desktop\KMP\KMP\bin\Debug\KMP.exe.config
+C:\Users\Aliaksandr_Yachnik\Desktop\KMP\KMP\bin\Debug\KMP.exe
+C:\Users\Aliaksandr_Yachnik\Desktop\KMP\KMP\bin\Debug\KMP.pdb
+C:\Users\Aliaksandr_Yachnik\Desktop\KMP\KMP\obj\Debug\KMP.csprojResolveAssemblyReference.cache
+C:\Users\Aliaksandr_Yachnik\Desktop\KMP\KMP\obj\Debug\KMP.exe
+C:\Users\Aliaksandr_Yachnik\Desktop\KMP\KMP\obj\Debug\KMP.pdb
